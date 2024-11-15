@@ -7,9 +7,7 @@ Resource    common_resources.robot
 
 *** Variables ***
 ${API_KEY}
-${INVENTORY}     store/inventory
 ${ORDER}    store/order
-@{ORDER_STATUSES}    placed    approved    delivered
 @{ORDER_KEYS}   id  petId   quantity    shipDate    status  complete
 
 *** Keywords ***

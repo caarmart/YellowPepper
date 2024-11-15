@@ -9,7 +9,6 @@ Resource    common_resources.robot
 *** Variables ***
 @{PET_STATUS}       available   pending     sold
 ${PET}      pet
-${BY_STATUS}    pet/findByStatus
 ${BY_TAGS}  pet/findByTags
 ${CONTENT_TYPE3}    application/octet-stream
 ${IMAGE_FILE_PATH}      resources/api/photo.jpg

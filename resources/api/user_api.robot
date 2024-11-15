@@ -10,7 +10,6 @@ ${USER}     theUser
 ${PASS}     12345
 ${CONTENT_TYPE2}    application/xml
 ############### ENDPOINTS ##############
-${LOGIN}    user/login
 ${LOGOUT}   user/logout
 ${CREATE_USER}  user
 ${USER_WITH_LIST}   user/createWithList
