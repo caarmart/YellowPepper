@@ -1,7 +1,6 @@
 *** Settings ***
 Documentation    This is a test suite for the USER endpoints
-Resource    ../resources/api.robot
-
+Resource    ../resources/api/user_api.robot
 
 *** Test Cases ***
 Login request
