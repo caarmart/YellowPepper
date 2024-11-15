@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   Resoruces for the store API tests
+Documentation   Resoruces for the store PET API tests
 Resource    ../resources/api/pet_api.robot
 
 *** Test Cases ***

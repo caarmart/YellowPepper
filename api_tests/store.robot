@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   This test suite is about all the store endpoints
+Documentation   This test suite is about all the STORE endpoints
 Resource    ../resources/api/store_api.robot
 
 *** Test Cases ***
